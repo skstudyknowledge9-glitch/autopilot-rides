@@ -1,0 +1,8 @@
+name = "autopilot-rides"
+compatibility_date = "2024-03-20"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "autopilot-db"
+database_id = "13b8a4ca-e736-465a-83c2-4809cffd00a5"
